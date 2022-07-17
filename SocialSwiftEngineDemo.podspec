@@ -27,7 +27,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '13.0'
   s.swift_versions = ['5.0', '5.1']
 
-  s.source_files = 'SocialSwiftEngineDemo/**/*.{swift,h,m}'
+  s.source_files = 'SocialSwiftEngineDemo/Classes/**/*'
   
 
   # s.dependency 'AFNetworking', '~> 2.3'
