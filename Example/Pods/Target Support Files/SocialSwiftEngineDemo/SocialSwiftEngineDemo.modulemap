@@ -1,0 +1,6 @@
+framework module SocialSwiftEngineDemo {
+  umbrella header "SocialSwiftEngineDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

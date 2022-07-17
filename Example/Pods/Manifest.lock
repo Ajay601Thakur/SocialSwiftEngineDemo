@@ -1,0 +1,16 @@
+PODS:
+  - SocialSwiftEngineDemo (0.1.0)
+
+DEPENDENCIES:
+  - SocialSwiftEngineDemo (from `../`)
+
+EXTERNAL SOURCES:
+  SocialSwiftEngineDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SocialSwiftEngineDemo: 40ab7cb379cbc05ac982be24d6cb25d82f35674a
+
+PODFILE CHECKSUM: f4e93df30d2bcb1867604201a82d08f329175f9c
+
+COCOAPODS: 1.11.3
