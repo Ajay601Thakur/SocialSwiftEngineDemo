@@ -28,7 +28,7 @@ TODO: Add long description of the pod here.
   s.swift_versions = ['5.0', '5.1']
 
   
-  s.source_files = 'Sources/SocialSwiftEngineDemo/**/*.swift'
+  s.source_files = 'SocialSwiftEngineDemo/common/*.swift'
   
 
   # s.dependency 'AFNetworking', '~> 2.3'
