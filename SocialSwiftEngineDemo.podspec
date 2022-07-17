@@ -23,11 +23,11 @@ TODO: Add long description of the pod here.
   s.author           = { 'Ajay601Thakur' => 'athakur220221@gmail.com' }
   s.source           = { :git => 'https://github.com/Ajay601Thakur/SocialSwiftEngineDemo.git', :tag => s.version.to_s }
  
-  s.source_files = 'SocialSwiftEngineDemo/**/*.{swift,h,m}'
+ 
   s.ios.deployment_target = '13.0'
   s.swift_versions = ['5.0', '5.1']
 
-  
+  s.source_files = 'SocialSwiftEngineDemo/**/*.{swift,h,m}'
   
 
   # s.dependency 'AFNetworking', '~> 2.3'
