@@ -29,8 +29,9 @@ TODO: Add long description of the pod here.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
+  s.swift_versions = ['5.0', '5.1']
 
-  s.source_files = 'SocialSwiftEngineDemo/Classes/**/*'
+  s.source_files = 'SocialSwiftEngineDemo/**/*.{swift,h,m}'
   
   # s.resource_bundles = {
   #   'SocialSwiftEngineDemo' => ['SocialSwiftEngineDemo/Assets/*.png']
