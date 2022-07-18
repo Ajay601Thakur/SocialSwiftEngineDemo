@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E6BE3FC9AFE767D149BAEF3846347AB6"
-               BuildableName = "SocialSwiftEngineDemo.framework"
+               BuildableName = "SocialSwiftEngineDemo"
                BlueprintName = "SocialSwiftEngineDemo"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>

@@ -1,5 +1,5 @@
 PODS:
-  - SocialSwiftEngineDemo (0.1.0)
+  - SocialSwiftEngineDemo (1.0.2)
 
 DEPENDENCIES:
   - SocialSwiftEngineDemo (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SocialSwiftEngineDemo: 40ab7cb379cbc05ac982be24d6cb25d82f35674a
+  SocialSwiftEngineDemo: 102ad5e0ced454860128fa3a6a671c23694c4ca9
 
 PODFILE CHECKSUM: f4e93df30d2bcb1867604201a82d08f329175f9c
 

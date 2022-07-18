@@ -170,7 +170,6 @@
 				607FACCC1AFB9204008FA782 /* Sources */,
 				607FACCD1AFB9204008FA782 /* Frameworks */,
 				607FACCE1AFB9204008FA782 /* Resources */,
-				33A951F07675EF792EFD2A85 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -262,24 +261,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		33A951F07675EF792EFD2A85 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SocialSwiftEngineDemo_Example/Pods-SocialSwiftEngineDemo_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/SocialSwiftEngineDemo/SocialSwiftEngineDemo.framework",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SocialSwiftEngineDemo.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SocialSwiftEngineDemo_Example/Pods-SocialSwiftEngineDemo_Example-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		340FD509573DFBD0F83B79BA /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;

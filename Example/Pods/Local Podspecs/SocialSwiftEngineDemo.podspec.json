@@ -1,7 +1,7 @@
 {
   "name": "SocialSwiftEngineDemo",
-  "version": "0.1.0",
-  "summary": "A short description of SocialSwiftEngineDemo.",
+  "version": "1.0.2",
+  "summary": "This app is using demo Purpose.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/Ajay601Thakur/SocialSwiftEngineDemo",
   "license": {
@@ -9,14 +9,19 @@
     "file": "LICENSE"
   },
   "authors": {
-    "Ajay601Thakur": "ajay01493@gmail.com"
+    "Ajay601Thakur": "athakur220221@gmail.com"
   },
   "source": {
     "git": "https://github.com/Ajay601Thakur/SocialSwiftEngineDemo.git",
-    "tag": "0.1.0"
+    "tag": "1.0.2"
   },
   "platforms": {
-    "ios": "10.0"
+    "ios": "13.0"
   },
-  "source_files": "SocialSwiftEngineDemo/Classes/**/*"
+  "swift_versions": [
+    "5.0",
+    "5.1"
+  ],
+  "source_files": "SocialSwiftEngineDemo/Classes/**/*",
+  "swift_version": "5.1"
 }
